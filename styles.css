@@ -12,24 +12,24 @@ hr{
   margin: 100px auto 100px auto;
   background-color: white;
   border-style: none;
-  border-top: 15px dotted #aacfcf;
+  border-top: 15px dotted #ff9292;
   width: 6%;
 }
 h1{
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
-  color: #66BFBF;
+  color: #6b011f;
   line-height: .75;
 }
 h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
-  color: #11999E;
+  color: #6b011f;
   padding-bottom: 8px;
 }
 h3{
-  color: #11999E;
+  color: #6b011f;
   font-family: 'Montserrat', sans-serif;
 }
 a{
@@ -37,10 +37,10 @@ a{
   font-family: 'Montserrat', sans-serif;
 }
 a:hover{
-  color: #303960;
+  color: #c24914;
 }
 .top-container{
-    background-color: #eeeeee;
+    background-color: #ff9292;
     position: relative;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -58,7 +58,7 @@ a:hover{
 
 .subtitle{
   font-weight: normal;
-  color: #66BFBF;
+  color: #6b011f;
 }
 
 .middle-container{
@@ -92,7 +92,7 @@ a:hover{
 .bottom-container{
   vertical-align: middle;
   text-align: center;
-  background-color: #abf0e9;
+  background-color: #ff9292;
   line-height: 2;
   padding: 25px 0 20px 0;
   margin-top: 100px;
@@ -101,7 +101,7 @@ a:hover{
   width: 5%;
 }
 .social{
-  color:  #11999E;
+  color:  black;
   padding-top: 15px;
   padding-bottom: 25px;
   margin: 25px 25px 25px 25px;
@@ -118,12 +118,12 @@ a:hover{
   -moz-border-radius: 9px;
   -webkit-border-radius: 9px;
   border-radius: 9px;
-  background: #1A99EE;
+  background: #6b011f;
   margin: 0 auto 50px auto;
 }
 .testbutton:hover {
-  color: #14396A !important;
-  background: #468CCF;
+  color: black !important;
+  background: #1b1b2f;
   background: linear-gradient(top,  #468CCF,  #63B8EE);
   background: -ms-linear-gradient(top,  #468CCF,  #63B8EE);
   background: -webkit-gradient(linear, left top, left bottom, from(#468CCF), to(#63B8EE));
